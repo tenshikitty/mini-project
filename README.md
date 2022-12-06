@@ -1,2 +1,2 @@
-# mini-project
-school mini project
+# school-mini-project
+ mini project
